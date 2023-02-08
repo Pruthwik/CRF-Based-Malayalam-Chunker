@@ -1,0 +1,21 @@
+ഈ	DM_DMD	B-NP
+ആംബുലൻസുകൾ	N_NN	I-NP
+ലഭ്യമല്ലെങ്കിൽ	N_NN	B-NP
+മാത്രമേ	RP_RPD	I-NP
+108	QT_QTC	B-NP
+ആംബുലൻസിന്റെ	N_NN	I-NP
+സേവനം	N_NN	B-NP
+തേടാവൂ	V_VM_VF	B-VGF
+.	RD_PUNC	B-BLK
+
+പുതിയ	JJ	B-NP
+റോഡുകളും	N_NN	I-NP
+വാഹനപ്പെരുപ്പവും	N_NN	B-NP
+കാരണം	PSP	I-NP
+അപകട	JJ	B-NP
+സ്ഥലങ്ങൾക്ക്	N_NN	I-NP
+മാറ്റം	N_NN	B-NP
+വന്നതിനാലാണ്	V_VM_VF	B-VGF
+പുന:ക്രമീകരിക്കുന്നത്	V_VM_VNF	B-VGNF
+.	RD_PUNC	B-BLK
+
